@@ -1,0 +1,17 @@
+#papa1{
+    width: 100%;
+    height: 400px;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.hijos{
+    width: 90px;
+    height: 90px;
+    background-color: bisque;
+    margin-right: 8px;
+    margin-top: 8px;
+}

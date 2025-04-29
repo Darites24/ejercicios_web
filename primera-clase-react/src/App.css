@@ -1,5 +1,12 @@
-#container {
+#Container {
   width: 100%;
   height: 500px;
   background-color: aqua;
+}
+
+#box {
+  width: 150px;
+  height: 100px;
+  background-color: bisque;
+  margin-top: 10px;
 }
